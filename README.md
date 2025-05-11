@@ -20,6 +20,7 @@ make
 
 You may check that the program work with:
 ```
-./thread
+./thread -i ../Input/side-face.png -z 4 -t 0.05 -n 100 -p 2.0 -c 2.0 -o "side-face"
+open side-face.svg
 ```
 
