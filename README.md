@@ -15,8 +15,23 @@ This program aims at rendering an image with a long black thread joining nails s
 <td></td>
 <td>
 <a href="Examples/closeup-face-target.png">Info</a> |
-<a href="Examples/closeup-face-target.png">Zoomed</a> | <a href="Examples/closeup-face.svg">SVG</a>
+<a href="Examples/closeup-face-thread.png">Zoomed</a> |
+<a href="Examples/closeup-face.svg">SVG</a>
 </td>
+</tr>
+<tr>
+<td> <image src="Input/two-women.png" width=200> </td>
+<td> <image src="Examples/two-women-avg.png" width=200> </td>
+</tr>
+<tr>
+<td></td>
+<td>
+<a href="Examples/two-women-target.png">Info</a> |
+<a href="Examples/two-women-thread.png">Zoomed</a> |
+<a href="Examples/two-women.svg">SVG</a>
+</td>
+</tr>
+
 </table>
 
 ## Compiling instruction
