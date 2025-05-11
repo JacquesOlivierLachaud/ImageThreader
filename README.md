@@ -8,8 +8,8 @@ This program aims at rendering an image with a long black thread joining nails s
 <td>Threaded image</td>
 </tr>
 <tr>
-<td> <image src="Input/closeup-face.png"> </td>
-<td> <image src="Examples/closeup-face-thread.png"> </td>
+<td> <image src="Input/closeup-face.png" width=300> </td>
+<td> <image src="Examples/closeup-face-thread.png" width=300> </td>
 </tr>
 </table>
 
