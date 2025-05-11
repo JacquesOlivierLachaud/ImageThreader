@@ -1,6 +1,17 @@
 # ImageThreader
 
-Artistic view of an image with threads
+This program aims at rendering an image with a long black thread joining nails surrounding the image frame. It mimicks an artistic view of an image with threads.
+
+<table>
+<tr>
+<td>Input image</td>
+<td>Threaded image</td>
+</tr>
+<tr>
+<td> <image src="Input/closeup-face.png"> </td>
+<td> <image src="Examples/closeup-face.svg"> </td>
+</tr>
+</table>
 
 ## Compiling instruction
 
