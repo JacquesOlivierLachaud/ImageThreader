@@ -31,15 +31,15 @@ This program aims at rendering an image with a long black thread joining nails s
 <a href="Examples/two-women.svg">SVG</a>
 </td>
 <tr>
-<td> <image src="Input/elegant-women.png" width=200> </td>
-<td> <image src="Examples/elegant-women-avg.png" width=200> </td>
+<td> <image src="Input/elegant-woman.png" width=200> </td>
+<td> <image src="Examples/elegant-woman-avg.png" width=200> </td>
 </tr>
 <tr>
 <td></td>
 <td>
-<a href="Examples/elegant-women-target.png">Info</a> |
-<a href="Examples/elegant-women-thread.png">Zoomed</a> |
-<a href="Examples/elegant-women.svg">SVG</a>
+<a href="Examples/elegant-woman-target.png">Info</a> |
+<a href="Examples/elegant-woman-thread.png">Zoomed</a> |
+<a href="Examples/elegant-woman.svg">SVG</a>
 </td>
 </tr>
 </table>
