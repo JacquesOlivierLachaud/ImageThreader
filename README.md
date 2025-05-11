@@ -30,9 +30,24 @@ This program aims at rendering an image with a long black thread joining nails s
 <a href="Examples/two-women-thread.png">Zoomed</a> |
 <a href="Examples/two-women.svg">SVG</a>
 </td>
+<tr>
+<td> <image src="Input/elegant-women.png" width=200> </td>
+<td> <image src="Examples/elegant-women-avg.png" width=200> </td>
 </tr>
-
+<tr>
+<td></td>
+<td>
+<a href="Examples/elegant-women-target.png">Info</a> |
+<a href="Examples/elegant-women-thread.png">Zoomed</a> |
+<a href="Examples/elegant-women.svg">SVG</a>
+</td>
+</tr>
 </table>
+
+All these examples were produced with these parameters;
+```
+./thread -i INPUT -z 4 -t 0.025 -n 150 -p 2.0 -c 2.0 -o OUTPUT
+```
 
 ## Compiling instruction
 
