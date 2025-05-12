@@ -42,6 +42,18 @@ This program aims at rendering an image with a long black thread joining nails s
 <a href="Examples/elegant-woman.svg">SVG</a>
 </td>
 </tr>
+<tr>
+<td> <image src="Input/side-face.png" width=200> </td>
+<td> <image src="Examples/side-face-t0_005-avg.png" width=200> </td>
+</tr>
+<tr>
+<td></td>
+<td>
+<a href="Examples/side-face-t0_005-target.png">Info</a> |
+<a href="Examples/side-face-t0_005-thread.png">Zoomed</a> |
+<a href="Examples/side-face-t0_005.svg">SVG</a>
+</td>
+</tr>
 </table>
 
 All these examples were produced with these parameters;
