@@ -144,7 +144,7 @@ struct Threader {
     for ( auto i = 0; i < _threadables[ start ].size(); i++ )
       {
 	const Index      k = _threadables[ start ][ i ];
-	const RealPoint    q = _nails[ k ];
+	const RealPoint  q = _nails[ k ];
 	std::vector< PixelFraction > TP = getThreadPixels( p, q, w );
 	std::vector< PixelFraction > IP = getImagePixels( TP );
 	const double error = enhancement
@@ -164,9 +164,6 @@ struct Threader {
     best_error  = E[ V[ best_i ] ];
     _last_error = best_error;
     best_k = _threadables[ start ][ V[ best_i ] ];
-    // std::cout << "#choices=" << _threadables[ start ].size()
-    // 	      << " best_k=" << best_k << " best_error=" << best_error
-    // 	      << "\n";
     // Update all images
     Index      next = best_k;
     const RealPoint q = _nails[ next ];
